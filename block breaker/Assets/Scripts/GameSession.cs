@@ -28,7 +28,7 @@ public class GameSession : MonoBehaviour {
 
     private void Start()
     {
-        scoreText.text = currentScore.ToString();
+        scoreText.text = currentScore.ToString();       
     }
 
     // Update is called once per frame
