@@ -99,3 +99,4 @@ MonoBehaviour:
   lazerPrefab: {fileID: 3289396349831462409, guid: 47daccaf9f7c80d419ccc14ac5a9dcb7,
     type: 3}
   projectileSpeed: 20
+  projectileFiringPeriod: 0.09
