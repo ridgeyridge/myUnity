@@ -11,6 +11,8 @@ GameObject:
   - component: {fileID: 2483985837709706908}
   - component: {fileID: 6840945057666743290}
   - component: {fileID: 8881628970543166724}
+  - component: {fileID: 4830601112683316214}
+  - component: {fileID: 5545921091379613808}
   m_Layer: 0
   m_Name: Boo
   m_TagString: Untagged
@@ -27,7 +29,7 @@ Transform:
   m_GameObject: {fileID: 5408756762725144655}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.4407539, y: 1.4407539, z: 1.4407539}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -94,3 +96,32 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9e2613ba18982ed40a0d5a7de69cbc63, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &4830601112683316214
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5408756762725144655}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19f94c63d4f5400479f9ec264ce5b71f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  health: 1000
+--- !u!58 &5545921091379613808
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5408756762725144655}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.41999996
