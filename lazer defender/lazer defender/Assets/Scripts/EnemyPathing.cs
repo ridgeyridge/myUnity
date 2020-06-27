@@ -1,19 +1,19 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
-using System.Data.SqlTypes;
 using UnityEngine;
 
 public class EnemyPathing : MonoBehaviour
 {
-     WaveConfig waveConfig;
-     List<Transform> waypoints;     
-     int waypointIndex = 0;
 
-    // Start is called before the first frame update
+    WaveConfig waveConfig;
+    List<Transform> waypoints;
+    int waypointIndex = 0;
+
+    // Use this for initialization
     void Start()
     {
         waypoints = waveConfig.GetWaypoints();
-        transform.position = waypoints[waypointIndex].transform.position; 
+        transform.position = waypoints[waypointIndex].transform.position;
     }
 
     // Update is called once per frame
@@ -27,15 +27,14 @@ public class EnemyPathing : MonoBehaviour
         this.waveConfig = waveConfig;
     }
 
-
     private void Move()
-    {
-        if (waypointIndex >= waypoints.Count - 1)
+    {       
+        if (waypointIndex <= waypoints.Count - 1)
         {
             var targetPosition = waypoints[waypointIndex].transform.position;
-            var movmentThisFrame = waveConfig.GetMoveSpeed() * Time.deltaTime;
+            var movementThisFrame = waveConfig.GetMoveSpeed() * Time.deltaTime;
             transform.position = Vector2.MoveTowards
-                (transform.position, targetPosition, movmentThisFrame);
+                (transform.position, targetPosition, movementThisFrame);
 
             if (transform.position == targetPosition)
             {
@@ -43,7 +42,7 @@ public class EnemyPathing : MonoBehaviour
             }
         }
         else
-        {       
+        {
             Destroy(gameObject);
         }
     }
