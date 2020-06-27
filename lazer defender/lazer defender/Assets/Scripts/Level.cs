@@ -12,7 +12,6 @@ public class Level : MonoBehaviour
  
     public void LoadGame()
     {
-        Debug.Log("I run");
         SceneManager.LoadScene("Game");
     }
 
