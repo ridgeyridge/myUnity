@@ -10,10 +10,12 @@ GameObject:
   m_Component:
   - component: {fileID: 2483985837709706908}
   - component: {fileID: 6840945057666743290}
-  - component: {fileID: 8881628970543166724}
   - component: {fileID: 4830601112683316214}
   - component: {fileID: 5545921091379613808}
-  m_Layer: 0
+  - component: {fileID: 8642947958810583}
+  - component: {fileID: 6452122466940610425}
+  - component: {fileID: -7730286252939715203}
+  m_Layer: 9
   m_Name: Boo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -84,18 +86,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &8881628970543166724
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5408756762725144655}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9e2613ba18982ed40a0d5a7de69cbc63, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &4830601112683316214
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -108,7 +98,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 19f94c63d4f5400479f9ec264ce5b71f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 1000
+  health: 400
+  shotCounter: 0
+  minTimeBetweenShots: 0.2
+  maxTimeBetweenShots: 3
+  Projectile: {fileID: 8269829845025813583, guid: 9a6097fe2d72be74b8ebc2190b374e61,
+    type: 3}
+  projectileSpeed: 10
+  deathVFX: {fileID: 2969127323391137725, guid: 23124afab6e4e0347acde42f81a3641c,
+    type: 3}
+  durationOfExplosion: 0.3
+  deathSound: {fileID: 8300000, guid: 306379cd48ecce645a2395e5c7671974, type: 3}
+  deathSoundVolume: 0.75
+  shootSound: {fileID: 8300000, guid: c724e8cf030138c4286b797ddae7765f, type: 3}
+  shootSoundVolume: 0.075
 --- !u!58 &5545921091379613808
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -119,9 +122,55 @@ CircleCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
   m_Radius: 0.41999996
+--- !u!50 &8642947958810583
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5408756762725144655}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
+--- !u!114 &6452122466940610425
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5408756762725144655}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05afc32c9018981419f6688b2f84befd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 100
+--- !u!114 &-7730286252939715203
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5408756762725144655}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e2613ba18982ed40a0d5a7de69cbc63, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
