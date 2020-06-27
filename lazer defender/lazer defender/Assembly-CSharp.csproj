@@ -701,6 +701,9 @@
     <Reference Include="UnityEditor.UI">
       <HintPath>D:/Program Files/Unity Hub/Repos/myUnity/lazer defender/lazer defender/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
+    <Reference Include="com.unity.quicksearch">
+      <HintPath>D:/Program Files/Unity Hub/Repos/myUnity/lazer defender/lazer defender/Library/ScriptAssemblies/com.unity.quicksearch.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup></ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
