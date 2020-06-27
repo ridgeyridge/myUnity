@@ -191,13 +191,19 @@ PrefabInstance:
     - target: {fileID: 5275287020317654173, guid: 0d52fd005ba93754598eaeb6a93ca5ab,
         type: 3}
       propertyPath: waveConfigs.Array.size
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 5275287020317654173, guid: 0d52fd005ba93754598eaeb6a93ca5ab,
         type: 3}
       propertyPath: waveConfigs.Array.data[0]
       value: 
       objectReference: {fileID: 11400000, guid: c4ea787076baf854786600c753ffd3f8,
+        type: 2}
+    - target: {fileID: 5275287020317654173, guid: 0d52fd005ba93754598eaeb6a93ca5ab,
+        type: 3}
+      propertyPath: waveConfigs.Array.data[1]
+      value: 
+      objectReference: {fileID: 11400000, guid: 0a325a5b7b0386444a838d3feb77006b,
         type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0d52fd005ba93754598eaeb6a93ca5ab, type: 3}
