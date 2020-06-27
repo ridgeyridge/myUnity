@@ -110,7 +110,7 @@ MonoBehaviour:
   durationOfExplosion: 0.3
   deathSound: {fileID: 8300000, guid: 306379cd48ecce645a2395e5c7671974, type: 3}
   deathSoundVolume: 0.75
-  shootSound: {fileID: 8300000, guid: fde5cbdcef6030c44801c72ce5b94cc8, type: 3}
+  shootSound: {fileID: 8300000, guid: 900c71357f4a9484aaaaf2fc809167fc, type: 3}
   shootSoundVolume: 0.25
 --- !u!58 &-5157696025076175433
 CircleCollider2D:

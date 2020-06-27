@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 5851270330409239912}
   - component: {fileID: -2424957683811374131}
   - component: {fileID: -5180194962722328391}
+  - component: {fileID: 7258247118075732145}
   m_Layer: 11
   m_Name: enemy lazer
   m_TagString: Untagged
@@ -70,8 +71,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 634639649
+  m_SortingLayer: -1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: abf581d816edd04448693929a2ea79e4, type: 3}
   m_Color: {r: 0.9652157, g: 1, b: 0, a: 1}
@@ -134,3 +135,16 @@ CapsuleCollider2D:
   m_Offset: {x: 0, y: 0}
   m_Size: {x: 0.38, y: 0.37}
   m_Direction: 0
+--- !u!114 &7258247118075732145
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8269829845025813583}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4b01c9be3029c64499f28d44f35d20f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speedOfSpin: 720
