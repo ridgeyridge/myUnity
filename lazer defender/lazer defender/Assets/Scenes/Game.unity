@@ -197,7 +197,7 @@ PrefabInstance:
         type: 3}
       propertyPath: waveConfigs.Array.data[0]
       value: 
-      objectReference: {fileID: 11400000, guid: 11605539a3da9b64cba13607b18aa2f0,
+      objectReference: {fileID: 11400000, guid: c4ea787076baf854786600c753ffd3f8,
         type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0d52fd005ba93754598eaeb6a93ca5ab, type: 3}
