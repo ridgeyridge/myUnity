@@ -221,7 +221,7 @@ SpriteRenderer:
   m_SortingOrder: 7
   m_Sprite: {fileID: -6758275934387730167, guid: dd2e67faae9fcbf4ea33d3d538ce5fd7,
     type: 3}
-  m_Color: {r: 0.16037738, g: 0.130874, b: 0.130874, a: 1}
+  m_Color: {r: 0.4716981, g: 0.43387327, b: 0.43387327, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -360,12 +360,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   stars: 100
---- !u!1 &390137368 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5735159969521526002, guid: 8e6881400dc0ff1419688f7ec6b6a8f1,
-    type: 3}
-  m_PrefabInstance: {fileID: 1182081220569931911}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &578630704
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -534,7 +528,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 7
   m_Sprite: {fileID: 21300000, guid: 2b7e955be9530b1459a84e4268779f5f, type: 3}
-  m_Color: {r: 0.16078432, g: 0.13333334, b: 0.13333334, a: 1}
+  m_Color: {r: 0.47058824, g: 0.43529412, b: 0.43529412, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -887,58 +881,18 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1330972084}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &1596224664 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 6924821400343171701, guid: 8e6881400dc0ff1419688f7ec6b6a8f1,
-    type: 3}
-  m_PrefabInstance: {fileID: 1182081220569931911}
-  m_PrefabAsset: {fileID: 0}
---- !u!95 &1596224665
-Animator:
-  serializedVersion: 3
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1596224664}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 3c1b946eba7b01e45abf5e17f0fd4601, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!114 &1596224666 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 1042008314322760790, guid: 8e6881400dc0ff1419688f7ec6b6a8f1,
     type: 3}
   m_PrefabInstance: {fileID: 1182081220569931911}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1596224664}
+  m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5cba358e72422e54eb00dd4513200a53, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &1596224667
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1596224664}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: af10d82d1b2eee249b100483769327b7, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  projectile: {fileID: 5648208598379400759, guid: 7f49237b133fc8b4b8bd439958215b63,
-    type: 3}
-  gun: {fileID: 390137368}
 --- !u!1001 &1615482664
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1374,24 +1328,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cactus
       objectReference: {fileID: 0}
-    - target: {fileID: 8002841519412427323, guid: 8e6881400dc0ff1419688f7ec6b6a8f1,
-        type: 3}
-      propertyPath: m_Color.r
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8002841519412427323, guid: 8e6881400dc0ff1419688f7ec6b6a8f1,
-        type: 3}
-      propertyPath: m_Color.g
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8002841519412427323, guid: 8e6881400dc0ff1419688f7ec6b6a8f1,
-        type: 3}
-      propertyPath: m_Color.b
-      value: 1
-      objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4026485454113268664, guid: 8e6881400dc0ff1419688f7ec6b6a8f1, type: 3}
-    - {fileID: 6936634167444540628, guid: 8e6881400dc0ff1419688f7ec6b6a8f1, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8e6881400dc0ff1419688f7ec6b6a8f1, type: 3}
 --- !u!1001 &3141862513391279965
 PrefabInstance:
@@ -1607,7 +1544,7 @@ PrefabInstance:
     - target: {fileID: 7034736050391209714, guid: e4fb7184512031545ba92c1bc8ff3efb,
         type: 3}
       propertyPath: m_FontData.m_FontSize
-      value: 120
+      value: 100
       objectReference: {fileID: 0}
     - target: {fileID: 7034736050391209714, guid: e4fb7184512031545ba92c1bc8ff3efb,
         type: 3}
@@ -1622,7 +1559,7 @@ PrefabInstance:
     - target: {fileID: 7034736050391209714, guid: e4fb7184512031545ba92c1bc8ff3efb,
         type: 3}
       propertyPath: m_Text
-      value: 999
+      value: 9999
       objectReference: {fileID: 0}
     - target: {fileID: 7034736050391209714, guid: e4fb7184512031545ba92c1bc8ff3efb,
         type: 3}
