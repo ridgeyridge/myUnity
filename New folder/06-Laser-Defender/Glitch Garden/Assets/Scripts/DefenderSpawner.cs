@@ -4,7 +4,9 @@ using UnityEngine;
 
 public class DefenderSpawner : MonoBehaviour
 {
+
     Defender defender;
+
     private void OnMouseDown()
     {
         AttemptToPlaceDefenderAt(GetSquareClicked());
@@ -24,8 +26,8 @@ public class DefenderSpawner : MonoBehaviour
             SpawnDefender(gridPos);
             StarDisplay.SpendStars(defenderCost);
         }
-
     }
+
     private Vector2 GetSquareClicked()
     {
         Vector2 clickPos = new Vector2(Input.mousePosition.x, Input.mousePosition.y);
@@ -46,6 +48,5 @@ public class DefenderSpawner : MonoBehaviour
         Defender newDefender = Instantiate(defender, roundedPos, Quaternion.identity) as Defender;
         Debug.Log(roundedPos);
     }
-
 
 }
