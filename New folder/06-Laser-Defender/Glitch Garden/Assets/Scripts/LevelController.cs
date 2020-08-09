@@ -1,5 +1,4 @@
 ﻿using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class LevelController : MonoBehaviour
@@ -9,10 +8,12 @@ public class LevelController : MonoBehaviour
     int numberOfAttackers = 0;
     bool levelTimerFinished = false;
     [SerializeField] float waitToLoad = 4f;
+    [SerializeField] GameObject loseLabel;
 
     private void Start()
     {
         winLabel.SetActive(false);
+        loseLabel.SetActive(false);
     }
 
 
@@ -36,6 +37,12 @@ public class LevelController : MonoBehaviour
         GetComponent<AudioSource>().Play();
         yield return new WaitForSeconds(waitToLoad);
         FindObjectOfType<LevelLoader>().LoadNextScene();
+    }
+
+    public void HandleLoseCondition()
+    {
+        loseLabel.SetActive(true);
+        Time.timeScale = 0;
     }
 
     public void LevelTimerFinished()
