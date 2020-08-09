@@ -28,7 +28,7 @@ public class LivesDisplay : MonoBehaviour
         
         if (lives <= 0)
         {
-            FindObjectOfType<LevelLoad>().LoadYouLose();
+            FindObjectOfType<LevelLoader>().LoadYouLose();
         }
     }
 }
