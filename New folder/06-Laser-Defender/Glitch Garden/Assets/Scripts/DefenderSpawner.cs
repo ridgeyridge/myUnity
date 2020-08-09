@@ -14,6 +14,7 @@ public class DefenderSpawner : MonoBehaviour
 
     public void SetSelectedDefender(Defender defenderToSelect)
     {
+
         defender = defenderToSelect;
     }
 
