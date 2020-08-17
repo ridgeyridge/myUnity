@@ -1193,9 +1193,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 5308638953829438568, guid: 94fde88212aaff74eac524285d6ed743,
-          type: 3}
-        m_MethodName: LoadMainMenu
+      - m_Target: {fileID: 848039865}
+        m_MethodName: SaveAndExit
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
