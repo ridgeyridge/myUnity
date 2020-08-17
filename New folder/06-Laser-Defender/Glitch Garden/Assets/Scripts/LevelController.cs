@@ -1,21 +1,22 @@
-﻿using System.Collections;
+﻿
+using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 
 public class LevelController : MonoBehaviour
 {
 
+    [SerializeField] float waitToLoad = 4f;
     [SerializeField] GameObject winLabel;
+    [SerializeField] GameObject loseLabel;
     int numberOfAttackers = 0;
     bool levelTimerFinished = false;
-    [SerializeField] float waitToLoad = 4f;
-    [SerializeField] GameObject loseLabel;
 
     private void Start()
     {
         winLabel.SetActive(false);
         loseLabel.SetActive(false);
     }
-
 
     public void AttackerSpawned()
     {
