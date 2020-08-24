@@ -10,7 +10,6 @@ public class DamageCollider : MonoBehaviour
         FindObjectOfType<LivesDisplay>().TakeLife();
         var attacker = otherCollider.GetComponent<Attacker>();
         Debug.LogError(attacker);
-        attacker.KilledByPlayer = false;
         Destroy(attacker);
     }    
 }

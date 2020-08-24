@@ -8,7 +8,7 @@ public class LivesDisplay : MonoBehaviour
 
     [SerializeField] float baseLives = 3;
     [SerializeField] int damage = 1;
-    float lives;
+    public float lives;
     Text livesText;
 
     void Start()
