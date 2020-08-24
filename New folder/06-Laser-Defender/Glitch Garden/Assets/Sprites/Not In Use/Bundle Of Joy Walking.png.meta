@@ -1,7 +1,1519 @@
 fileFormatVersion: 2
 guid: 1968143a897e1784b87b6f6ccaef8dfa
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -5114774658807883666
+    second: Bundle Of Joy Walking_0
+  - first:
+      213: 8425663781997108602
+    second: Bundle Of Joy Walking_1
+  - first:
+      213: -5483261266598968425
+    second: Bundle Of Joy Walking_2
+  - first:
+      213: 714446048858569827
+    second: Bundle Of Joy Walking_3
+  - first:
+      213: -9122710615001172338
+    second: Bundle Of Joy Walking_4
+  - first:
+      213: 4530939391543268796
+    second: Bundle Of Joy Walking_5
+  - first:
+      213: 4301019014204911935
+    second: Bundle Of Joy Walking_6
+  - first:
+      213: 325857749381199794
+    second: Bundle Of Joy Walking_7
+  - first:
+      213: 7553053826346733735
+    second: Bundle Of Joy Walking_8
+  - first:
+      213: 7717801803651804409
+    second: Bundle Of Joy Walking_9
+  - first:
+      213: 2421371492278519286
+    second: Bundle Of Joy Walking_10
+  - first:
+      213: -3099770949250910780
+    second: Bundle Of Joy Walking_11
+  - first:
+      213: 7216288041354951830
+    second: Bundle Of Joy Walking_12
+  - first:
+      213: -4581414705213773103
+    second: Bundle Of Joy Walking_13
+  - first:
+      213: 5744964338416930390
+    second: Bundle Of Joy Walking_14
+  - first:
+      213: 8983365717737200762
+    second: Bundle Of Joy Walking_15
+  - first:
+      213: -8033665929246452508
+    second: Bundle Of Joy Walking_16
+  - first:
+      213: 2003153125890136997
+    second: Bundle Of Joy Walking_17
+  - first:
+      213: 7793276628271494524
+    second: Bundle Of Joy Walking_18
+  - first:
+      213: 7677737223526957785
+    second: Bundle Of Joy Walking_19
+  - first:
+      213: -8584747108756312440
+    second: Bundle Of Joy Walking_20
+  - first:
+      213: 7883919854940689838
+    second: Bundle Of Joy Walking_21
+  - first:
+      213: 5901689054911194658
+    second: Bundle Of Joy Walking_22
+  - first:
+      213: 3217988239086668383
+    second: Bundle Of Joy Walking_23
+  - first:
+      213: -4811515878831170850
+    second: Bundle Of Joy Walking_24
+  - first:
+      213: -3766759461107482802
+    second: Bundle Of Joy Walking_25
+  - first:
+      213: 6328666707670565731
+    second: Bundle Of Joy Walking_26
+  - first:
+      213: 201203760859743948
+    second: Bundle Of Joy Walking_27
+  - first:
+      213: -8970195508488041634
+    second: Bundle Of Joy Walking_28
+  - first:
+      213: -3626809356268584268
+    second: Bundle Of Joy Walking_29
+  - first:
+      213: 6857765235523550404
+    second: Bundle Of Joy Walking_30
+  - first:
+      213: 7387303477513371752
+    second: Bundle Of Joy Walking_31
+  - first:
+      213: -403625033327651490
+    second: Bundle Of Joy Walking_32
+  - first:
+      213: -7100514045473000400
+    second: Bundle Of Joy Walking_33
+  - first:
+      213: -5980621767137125161
+    second: Bundle Of Joy Walking_34
+  - first:
+      213: -6345454692096260156
+    second: Bundle Of Joy Walking_35
+  - first:
+      213: -2112076719859136910
+    second: Bundle Of Joy Walking_36
+  - first:
+      213: -8833541199837359835
+    second: Bundle Of Joy Walking_37
+  - first:
+      213: -1245653275921687184
+    second: Bundle Of Joy Walking_38
+  - first:
+      213: 6524773310795344882
+    second: Bundle Of Joy Walking_39
+  - first:
+      213: -180179990159821353
+    second: Bundle Of Joy Walking_40
+  - first:
+      213: 1702647840729282186
+    second: Bundle Of Joy Walking_41
+  - first:
+      213: -3804424576025176981
+    second: Bundle Of Joy Walking_42
+  - first:
+      213: -1902455365978648943
+    second: Bundle Of Joy Walking_43
+  - first:
+      213: 3817041060561825305
+    second: Bundle Of Joy Walking_44
+  - first:
+      213: -2510272871240686856
+    second: Bundle Of Joy Walking_45
+  - first:
+      213: -4770416071009305322
+    second: Bundle Of Joy Walking_46
+  - first:
+      213: 1027244971787224294
+    second: Bundle Of Joy Walking_47
+  - first:
+      213: -8269649363352770935
+    second: Bundle Of Joy Walking_48
+  - first:
+      213: -2022049778604880598
+    second: Bundle Of Joy Walking_49
+  - first:
+      213: 2545804705675253261
+    second: Bundle Of Joy Walking_50
+  - first:
+      213: 5933667464064121419
+    second: Bundle Of Joy Walking_51
+  - first:
+      213: 2988038521455354067
+    second: Bundle Of Joy Walking_52
+  - first:
+      213: -2850561466640617534
+    second: Bundle Of Joy Walking_53
+  - first:
+      213: -1127075189997550608
+    second: Bundle Of Joy Walking_54
+  - first:
+      213: -3242110578269573945
+    second: Bundle Of Joy Walking_55
+  - first:
+      213: -7095747787957169509
+    second: Bundle Of Joy Walking_56
+  - first:
+      213: 2439816322463432259
+    second: Bundle Of Joy Walking_57
+  - first:
+      213: 6623022454636333884
+    second: Bundle Of Joy Walking_58
+  - first:
+      213: 1785729427807944936
+    second: Bundle Of Joy Walking_59
+  - first:
+      213: -3654397470348531359
+    second: Bundle Of Joy Walking_60
+  - first:
+      213: -1047981748520044105
+    second: Bundle Of Joy Walking_61
+  - first:
+      213: 5271241210756138675
+    second: Bundle Of Joy Walking_62
+  - first:
+      213: -7746191321346279144
+    second: Bundle Of Joy Walking_63
+  - first:
+      213: -9129589003819435939
+    second: Bundle Of Joy Walking_64
+  - first:
+      213: 56606613544857630
+    second: Bundle Of Joy Walking_65
+  - first:
+      213: 7978792366535733117
+    second: Bundle Of Joy Walking_66
+  - first:
+      213: 6972541409580548435
+    second: Bundle Of Joy Walking_67
+  - first:
+      213: 5508357082390862053
+    second: Bundle Of Joy Walking_68
+  - first:
+      213: 7505026294847745525
+    second: Bundle Of Joy Walking_69
+  - first:
+      213: -5129510632299104474
+    second: Bundle Of Joy Walking_70
+  - first:
+      213: -4062974461727691735
+    second: Bundle Of Joy Walking_71
+  - first:
+      213: 5014491613081527102
+    second: Bundle Of Joy Walking_72
+  - first:
+      213: -183917704112502430
+    second: Bundle Of Joy Walking_73
+  - first:
+      213: 9029583359922080643
+    second: Bundle Of Joy Walking_74
+  - first:
+      213: 288409299137239581
+    second: Bundle Of Joy Walking_75
+  - first:
+      213: -3716952438165197122
+    second: Bundle Of Joy Walking_76
+  - first:
+      213: -445350041900849980
+    second: Bundle Of Joy Walking_77
+  - first:
+      213: -5431700837317506967
+    second: Bundle Of Joy Walking_78
+  - first:
+      213: 4214615965014400412
+    second: Bundle Of Joy Walking_79
+  - first:
+      213: -7214862717535615409
+    second: Bundle Of Joy Walking_80
+  - first:
+      213: -3182418841108745371
+    second: Bundle Of Joy Walking_81
+  - first:
+      213: -5390753570733932015
+    second: Bundle Of Joy Walking_82
+  - first:
+      213: 6587338144094366123
+    second: Bundle Of Joy Walking_83
+  - first:
+      213: -6289604019328366316
+    second: Bundle Of Joy Walking_84
+  - first:
+      213: -3721949739353925154
+    second: Bundle Of Joy Walking_85
+  - first:
+      213: -8695894009597451084
+    second: Bundle Of Joy Walking_86
+  - first:
+      213: 7738007337828529585
+    second: Bundle Of Joy Walking_87
+  - first:
+      213: -6580560868304270679
+    second: Bundle Of Joy Walking_88
+  - first:
+      213: -7592322899015490481
+    second: Bundle Of Joy Walking_89
+  - first:
+      213: 3187919507560783176
+    second: Bundle Of Joy Walking_90
+  - first:
+      213: 2504067503785399061
+    second: Bundle Of Joy Walking_91
+  - first:
+      213: 6136472571885853401
+    second: Bundle Of Joy Walking_92
+  - first:
+      213: -730245900501284301
+    second: Bundle Of Joy Walking_93
+  - first:
+      213: 3411593322983517991
+    second: Bundle Of Joy Walking_94
+  - first:
+      213: 962686727564348161
+    second: Bundle Of Joy Walking_95
+  - first:
+      213: -7240816205324350515
+    second: Bundle Of Joy Walking_96
+  - first:
+      213: 5270113643901145078
+    second: Bundle Of Joy Walking_97
+  - first:
+      213: 2004637114948509390
+    second: Bundle Of Joy Walking_98
+  - first:
+      213: 7403303811489742279
+    second: Bundle Of Joy Walking_99
+  - first:
+      213: -8207086822578139173
+    second: Bundle Of Joy Walking_100
+  - first:
+      213: 7732408346550681255
+    second: Bundle Of Joy Walking_101
+  - first:
+      213: -5764329504255436759
+    second: Bundle Of Joy Walking_102
+  - first:
+      213: -5389766906248752981
+    second: Bundle Of Joy Walking_103
+  - first:
+      213: 6570206584124651974
+    second: Bundle Of Joy Walking_104
+  - first:
+      213: -4583302066312921194
+    second: Bundle Of Joy Walking_105
+  - first:
+      213: 123951093826573743
+    second: Bundle Of Joy Walking_106
+  - first:
+      213: -9026333577679743267
+    second: Bundle Of Joy Walking_107
+  - first:
+      213: -2670921782956102985
+    second: Bundle Of Joy Walking_108
+  - first:
+      213: -1717719112413867403
+    second: Bundle Of Joy Walking_109
+  - first:
+      213: 7438860558246516187
+    second: Bundle Of Joy Walking_110
+  - first:
+      213: 3741034856442138463
+    second: Bundle Of Joy Walking_111
+  - first:
+      213: -714704341015994970
+    second: Bundle Of Joy Walking_112
+  - first:
+      213: 6604494599018236727
+    second: Bundle Of Joy Walking_113
+  - first:
+      213: 6116354855267845766
+    second: Bundle Of Joy Walking_114
+  - first:
+      213: -953774281693870170
+    second: Bundle Of Joy Walking_115
+  - first:
+      213: -6584249728723699156
+    second: Bundle Of Joy Walking_116
+  - first:
+      213: -8000291792695145019
+    second: Bundle Of Joy Walking_117
+  - first:
+      213: 4595251641687727643
+    second: Bundle Of Joy Walking_118
+  - first:
+      213: 4002123456077472039
+    second: Bundle Of Joy Walking_119
+  - first:
+      213: 783652331936213474
+    second: Bundle Of Joy Walking_120
+  - first:
+      213: -2306583300293500648
+    second: Bundle Of Joy Walking_121
+  - first:
+      213: 3307956061875692182
+    second: Bundle Of Joy Walking_122
+  - first:
+      213: -6096319150482724521
+    second: Bundle Of Joy Walking_123
+  - first:
+      213: 8313076695497799028
+    second: Bundle Of Joy Walking_124
+  - first:
+      213: 3389359985806012344
+    second: Bundle Of Joy Walking_125
+  - first:
+      213: -7499176051543878148
+    second: Bundle Of Joy Walking_126
+  - first:
+      213: -3399779129518363770
+    second: Bundle Of Joy Walking_127
+  - first:
+      213: 4590369769503118961
+    second: Bundle Of Joy Walking_128
+  - first:
+      213: -582524489983372960
+    second: Bundle Of Joy Walking_129
+  - first:
+      213: 7936295384216157702
+    second: Bundle Of Joy Walking_130
+  - first:
+      213: -4111335152589690220
+    second: Bundle Of Joy Walking_131
+  - first:
+      213: 8842402822135324020
+    second: Bundle Of Joy Walking_132
+  - first:
+      213: -3460084676769288886
+    second: Bundle Of Joy Walking_133
+  - first:
+      213: 4214481476930436011
+    second: Bundle Of Joy Walking_134
+  - first:
+      213: 6383326673501202358
+    second: Bundle Of Joy Walking_135
+  - first:
+      213: -203039782481028985
+    second: Bundle Of Joy Walking_136
+  - first:
+      213: 5990025763340614064
+    second: Bundle Of Joy Walking_137
+  - first:
+      213: 2944986908024264893
+    second: Bundle Of Joy Walking_138
+  - first:
+      213: -8965885294961148546
+    second: Bundle Of Joy Walking_139
+  - first:
+      213: 5375856766788831649
+    second: Bundle Of Joy Walking_140
+  - first:
+      213: 2546352600363517874
+    second: Bundle Of Joy Walking_141
+  - first:
+      213: 2806145727598766722
+    second: Bundle Of Joy Walking_142
+  - first:
+      213: -6803305131184960284
+    second: Bundle Of Joy Walking_143
+  - first:
+      213: 6822540211552182270
+    second: Bundle Of Joy Walking_144
+  - first:
+      213: 8266924012539276898
+    second: Bundle Of Joy Walking_145
+  - first:
+      213: -998594225001215384
+    second: Bundle Of Joy Walking_146
+  - first:
+      213: -5932095009197426479
+    second: Bundle Of Joy Walking_147
+  - first:
+      213: 642563664760593691
+    second: Bundle Of Joy Walking_148
+  - first:
+      213: 4792661206505505084
+    second: Bundle Of Joy Walking_149
+  - first:
+      213: 5030116967514479709
+    second: Bundle Of Joy Walking_150
+  - first:
+      213: 2211685849357136046
+    second: Bundle Of Joy Walking_151
+  - first:
+      213: -4208618912140848071
+    second: Bundle Of Joy Walking_152
+  - first:
+      213: 135235206282852339
+    second: Bundle Of Joy Walking_153
+  - first:
+      213: -7876808977573559860
+    second: Bundle Of Joy Walking_154
+  - first:
+      213: 3227480303666283662
+    second: Bundle Of Joy Walking_155
+  - first:
+      213: -797112370246736649
+    second: Bundle Of Joy Walking_156
+  - first:
+      213: -3532440803397452347
+    second: Bundle Of Joy Walking_157
+  - first:
+      213: -63998699955215348
+    second: Bundle Of Joy Walking_158
+  - first:
+      213: -6493781954022987229
+    second: Bundle Of Joy Walking_159
+  - first:
+      213: 5366843443387367319
+    second: Bundle Of Joy Walking_160
+  - first:
+      213: 4417813962850772857
+    second: Bundle Of Joy Walking_161
+  - first:
+      213: 2325145108465499399
+    second: Bundle Of Joy Walking_162
+  - first:
+      213: -8413498583825502849
+    second: Bundle Of Joy Walking_163
+  - first:
+      213: 6811351061291939058
+    second: Bundle Of Joy Walking_164
+  - first:
+      213: 9050699054094389134
+    second: Bundle Of Joy Walking_165
+  - first:
+      213: -1879615646052501519
+    second: Bundle Of Joy Walking_166
+  - first:
+      213: 8171114561124530540
+    second: Bundle Of Joy Walking_167
+  - first:
+      213: 5589707431995655516
+    second: Bundle Of Joy Walking_168
+  - first:
+      213: -7291874655815108297
+    second: Bundle Of Joy Walking_169
+  - first:
+      213: 790281654252151679
+    second: Bundle Of Joy Walking_170
+  - first:
+      213: 51334709854321163
+    second: Bundle Of Joy Walking_171
+  - first:
+      213: 8282218379957706747
+    second: Bundle Of Joy Walking_172
+  - first:
+      213: -1813990667426675338
+    second: Bundle Of Joy Walking_173
+  - first:
+      213: 3356397281994153168
+    second: Bundle Of Joy Walking_174
+  - first:
+      213: 2197333795927019872
+    second: Bundle Of Joy Walking_175
+  - first:
+      213: -4304605848962630244
+    second: Bundle Of Joy Walking_176
+  - first:
+      213: -2819008275400968335
+    second: Bundle Of Joy Walking_177
+  - first:
+      213: -7989727158293335625
+    second: Bundle Of Joy Walking_178
+  - first:
+      213: 3075574812666472165
+    second: Bundle Of Joy Walking_179
+  - first:
+      213: 5049769227095244903
+    second: Bundle Of Joy Walking_180
+  - first:
+      213: -5811084867698349221
+    second: Bundle Of Joy Walking_181
+  - first:
+      213: -8427461983560921831
+    second: Bundle Of Joy Walking_182
+  - first:
+      213: -2008282004808964729
+    second: Bundle Of Joy Walking_183
+  - first:
+      213: 5966245965877306432
+    second: Bundle Of Joy Walking_184
+  - first:
+      213: 7442486671411692690
+    second: Bundle Of Joy Walking_185
+  - first:
+      213: 168226017315340252
+    second: Bundle Of Joy Walking_186
+  - first:
+      213: 1099121135686118086
+    second: Bundle Of Joy Walking_187
+  - first:
+      213: 8522932679481138630
+    second: Bundle Of Joy Walking_188
+  - first:
+      213: 6371775680968812584
+    second: Bundle Of Joy Walking_189
+  - first:
+      213: -885936170333542836
+    second: Bundle Of Joy Walking_190
+  - first:
+      213: -3443968434866675501
+    second: Bundle Of Joy Walking_191
+  - first:
+      213: 1391956922247675067
+    second: Bundle Of Joy Walking_192
+  - first:
+      213: 4733519686473896464
+    second: Bundle Of Joy Walking_193
+  - first:
+      213: 2931512980126932675
+    second: Bundle Of Joy Walking_194
+  - first:
+      213: 6068829472626663668
+    second: Bundle Of Joy Walking_195
+  - first:
+      213: -2548130429518215756
+    second: Bundle Of Joy Walking_196
+  - first:
+      213: 3522154091016519557
+    second: Bundle Of Joy Walking_197
+  - first:
+      213: 6468228551556770533
+    second: Bundle Of Joy Walking_198
+  - first:
+      213: -8573054274924778037
+    second: Bundle Of Joy Walking_199
+  - first:
+      213: -4784076485214468368
+    second: Bundle Of Joy Walking_200
+  - first:
+      213: -1732481589567422607
+    second: Bundle Of Joy Walking_201
+  - first:
+      213: 7226335363089596967
+    second: Bundle Of Joy Walking_202
+  - first:
+      213: -8914975496101589443
+    second: Bundle Of Joy Walking_203
+  - first:
+      213: 7442109462665661898
+    second: Bundle Of Joy Walking_204
+  - first:
+      213: -20048634579642496
+    second: Bundle Of Joy Walking_205
+  - first:
+      213: -6289094996729767848
+    second: Bundle Of Joy Walking_206
+  - first:
+      213: 9116661388000275987
+    second: Bundle Of Joy Walking_207
+  - first:
+      213: -3649098001689101199
+    second: Bundle Of Joy Walking_208
+  - first:
+      213: -5167572395609822081
+    second: Bundle Of Joy Walking_209
+  - first:
+      213: -120365083473314664
+    second: Bundle Of Joy Walking_210
+  - first:
+      213: 9155695131888980500
+    second: Bundle Of Joy Walking_211
+  - first:
+      213: 7685096923894569721
+    second: Bundle Of Joy Walking_212
+  - first:
+      213: -5788872453664589699
+    second: Bundle Of Joy Walking_213
+  - first:
+      213: 6456300436669004306
+    second: Bundle Of Joy Walking_214
+  - first:
+      213: 2899731492626071002
+    second: Bundle Of Joy Walking_215
+  - first:
+      213: 4188667049013556061
+    second: Bundle Of Joy Walking_216
+  - first:
+      213: -4550041850557899893
+    second: Bundle Of Joy Walking_217
+  - first:
+      213: 7028032742936619636
+    second: Bundle Of Joy Walking_218
+  - first:
+      213: 7747020077012882124
+    second: Bundle Of Joy Walking_219
+  - first:
+      213: 6742562961523753029
+    second: Bundle Of Joy Walking_220
+  - first:
+      213: -2384608263539915068
+    second: Bundle Of Joy Walking_221
+  - first:
+      213: -2756633738623568490
+    second: Bundle Of Joy Walking_222
+  - first:
+      213: -8227928225193257005
+    second: Bundle Of Joy Walking_223
+  - first:
+      213: 8046380589903932716
+    second: Bundle Of Joy Walking_224
+  - first:
+      213: 4014298493103355911
+    second: Bundle Of Joy Walking_225
+  - first:
+      213: -2054092647023924591
+    second: Bundle Of Joy Walking_226
+  - first:
+      213: 3203937530905160746
+    second: Bundle Of Joy Walking_227
+  - first:
+      213: 1520663304043778820
+    second: Bundle Of Joy Walking_228
+  - first:
+      213: 1364091446864242181
+    second: Bundle Of Joy Walking_229
+  - first:
+      213: -6384971536706619445
+    second: Bundle Of Joy Walking_230
+  - first:
+      213: -6275274732428236524
+    second: Bundle Of Joy Walking_231
+  - first:
+      213: -3318923781550469138
+    second: Bundle Of Joy Walking_232
+  - first:
+      213: 4897478551440379823
+    second: Bundle Of Joy Walking_233
+  - first:
+      213: -5986513987372431019
+    second: Bundle Of Joy Walking_234
+  - first:
+      213: -7736602406656128979
+    second: Bundle Of Joy Walking_235
+  - first:
+      213: -6174811958580292796
+    second: Bundle Of Joy Walking_236
+  - first:
+      213: -8433766544197036702
+    second: Bundle Of Joy Walking_237
+  - first:
+      213: -6977902143213880517
+    second: Bundle Of Joy Walking_238
+  - first:
+      213: 2792295088773553846
+    second: Bundle Of Joy Walking_239
+  - first:
+      213: 5416616022125373982
+    second: Bundle Of Joy Walking_240
+  - first:
+      213: -1896551003846076112
+    second: Bundle Of Joy Walking_241
+  - first:
+      213: -93432135019498466
+    second: Bundle Of Joy Walking_242
+  - first:
+      213: 5556580102889587307
+    second: Bundle Of Joy Walking_243
+  - first:
+      213: 6740988316981673129
+    second: Bundle Of Joy Walking_244
+  - first:
+      213: 3167870907528565053
+    second: Bundle Of Joy Walking_245
+  - first:
+      213: 785489077638498457
+    second: Bundle Of Joy Walking_246
+  - first:
+      213: 730285984739826817
+    second: Bundle Of Joy Walking_247
+  - first:
+      213: -8623208652528223291
+    second: Bundle Of Joy Walking_248
+  - first:
+      213: -4487853411262710056
+    second: Bundle Of Joy Walking_249
+  - first:
+      213: 227726842191883243
+    second: Bundle Of Joy Walking_250
+  - first:
+      213: -7366830880410529115
+    second: Bundle Of Joy Walking_251
+  - first:
+      213: 5377219413608063719
+    second: Bundle Of Joy Walking_252
+  - first:
+      213: -1243791403430728471
+    second: Bundle Of Joy Walking_253
+  - first:
+      213: 2092478863252902709
+    second: Bundle Of Joy Walking_254
+  - first:
+      213: 8066057857606531566
+    second: Bundle Of Joy Walking_255
+  - first:
+      213: -304834108458992147
+    second: Bundle Of Joy Walking_256
+  - first:
+      213: -5219642950574229252
+    second: Bundle Of Joy Walking_257
+  - first:
+      213: -7141667159071260134
+    second: Bundle Of Joy Walking_258
+  - first:
+      213: -9069494009789684807
+    second: Bundle Of Joy Walking_259
+  - first:
+      213: -3962093350051005258
+    second: Bundle Of Joy Walking_260
+  - first:
+      213: 6463015037615028724
+    second: Bundle Of Joy Walking_261
+  - first:
+      213: 1300340101997328178
+    second: Bundle Of Joy Walking_262
+  - first:
+      213: -5001316034018937208
+    second: Bundle Of Joy Walking_263
+  - first:
+      213: 4397669811964416495
+    second: Bundle Of Joy Walking_264
+  - first:
+      213: 2690067642716747041
+    second: Bundle Of Joy Walking_265
+  - first:
+      213: -2155972553160858134
+    second: Bundle Of Joy Walking_266
+  - first:
+      213: -3688564873343116773
+    second: Bundle Of Joy Walking_267
+  - first:
+      213: 3072756036930630519
+    second: Bundle Of Joy Walking_268
+  - first:
+      213: -1965748843422679511
+    second: Bundle Of Joy Walking_269
+  - first:
+      213: 6445271516066211620
+    second: Bundle Of Joy Walking_270
+  - first:
+      213: 6961489046617689447
+    second: Bundle Of Joy Walking_271
+  - first:
+      213: -8620927027036909023
+    second: Bundle Of Joy Walking_272
+  - first:
+      213: 460983236662049794
+    second: Bundle Of Joy Walking_273
+  - first:
+      213: 3240758567895169548
+    second: Bundle Of Joy Walking_274
+  - first:
+      213: 3225629264317097115
+    second: Bundle Of Joy Walking_275
+  - first:
+      213: 7310334544755066890
+    second: Bundle Of Joy Walking_276
+  - first:
+      213: -6813230675615170691
+    second: Bundle Of Joy Walking_277
+  - first:
+      213: -6039749550845063997
+    second: Bundle Of Joy Walking_278
+  - first:
+      213: -1514235244666814175
+    second: Bundle Of Joy Walking_279
+  - first:
+      213: 6596038771703905985
+    second: Bundle Of Joy Walking_280
+  - first:
+      213: 6635539803906042132
+    second: Bundle Of Joy Walking_281
+  - first:
+      213: 857278394287332023
+    second: Bundle Of Joy Walking_282
+  - first:
+      213: -3411078120463760271
+    second: Bundle Of Joy Walking_283
+  - first:
+      213: 5453401366843642743
+    second: Bundle Of Joy Walking_284
+  - first:
+      213: -7128948447538966062
+    second: Bundle Of Joy Walking_285
+  - first:
+      213: 4126488658600637821
+    second: Bundle Of Joy Walking_286
+  - first:
+      213: 7786653418268060436
+    second: Bundle Of Joy Walking_287
+  - first:
+      213: -4977628952639413552
+    second: Bundle Of Joy Walking_288
+  - first:
+      213: -8057456535087346485
+    second: Bundle Of Joy Walking_289
+  - first:
+      213: 4953393721946530839
+    second: Bundle Of Joy Walking_290
+  - first:
+      213: 261725129402288808
+    second: Bundle Of Joy Walking_291
+  - first:
+      213: 5723074830115100823
+    second: Bundle Of Joy Walking_292
+  - first:
+      213: 3059608487235134353
+    second: Bundle Of Joy Walking_293
+  - first:
+      213: -2378347030816303562
+    second: Bundle Of Joy Walking_294
+  - first:
+      213: -6133563344030205899
+    second: Bundle Of Joy Walking_295
+  - first:
+      213: -8851723248247063510
+    second: Bundle Of Joy Walking_296
+  - first:
+      213: 6157867138768627875
+    second: Bundle Of Joy Walking_297
+  - first:
+      213: 5411334335049102560
+    second: Bundle Of Joy Walking_298
+  - first:
+      213: 8077572103552280023
+    second: Bundle Of Joy Walking_299
+  - first:
+      213: 4245650919576490083
+    second: Bundle Of Joy Walking_300
+  - first:
+      213: 1693418176940518611
+    second: Bundle Of Joy Walking_301
+  - first:
+      213: 9137832191954878868
+    second: Bundle Of Joy Walking_302
+  - first:
+      213: 4962073387257664865
+    second: Bundle Of Joy Walking_303
+  - first:
+      213: 7320614857069173601
+    second: Bundle Of Joy Walking_304
+  - first:
+      213: 3590626248732127118
+    second: Bundle Of Joy Walking_305
+  - first:
+      213: 4674775248692698294
+    second: Bundle Of Joy Walking_306
+  - first:
+      213: 8686663428112317569
+    second: Bundle Of Joy Walking_307
+  - first:
+      213: 4101979045231290531
+    second: Bundle Of Joy Walking_308
+  - first:
+      213: 2700907925967462771
+    second: Bundle Of Joy Walking_309
+  - first:
+      213: 7085863748124308046
+    second: Bundle Of Joy Walking_310
+  - first:
+      213: 3444991880397367914
+    second: Bundle Of Joy Walking_311
+  - first:
+      213: 8482240711386496569
+    second: Bundle Of Joy Walking_312
+  - first:
+      213: 6360051536775965636
+    second: Bundle Of Joy Walking_313
+  - first:
+      213: 3055743339824051298
+    second: Bundle Of Joy Walking_314
+  - first:
+      213: 5694117103463752837
+    second: Bundle Of Joy Walking_315
+  - first:
+      213: 2005365459335001883
+    second: Bundle Of Joy Walking_316
+  - first:
+      213: -5456763522594103736
+    second: Bundle Of Joy Walking_317
+  - first:
+      213: -5059730820050429171
+    second: Bundle Of Joy Walking_318
+  - first:
+      213: -848533780408021390
+    second: Bundle Of Joy Walking_319
+  - first:
+      213: -1382617568958091651
+    second: Bundle Of Joy Walking_320
+  - first:
+      213: -740475411527589445
+    second: Bundle Of Joy Walking_321
+  - first:
+      213: -3010405689449281560
+    second: Bundle Of Joy Walking_322
+  - first:
+      213: -750981446929651048
+    second: Bundle Of Joy Walking_323
+  - first:
+      213: -3105830216509450928
+    second: Bundle Of Joy Walking_324
+  - first:
+      213: -6642618106809638788
+    second: Bundle Of Joy Walking_325
+  - first:
+      213: 6275099957251780415
+    second: Bundle Of Joy Walking_326
+  - first:
+      213: -6447700403724997935
+    second: Bundle Of Joy Walking_327
+  - first:
+      213: -7303601040675269527
+    second: Bundle Of Joy Walking_328
+  - first:
+      213: -5153710255003987344
+    second: Bundle Of Joy Walking_329
+  - first:
+      213: -2954958599317486184
+    second: Bundle Of Joy Walking_330
+  - first:
+      213: 7479969769711636390
+    second: Bundle Of Joy Walking_331
+  - first:
+      213: 8432892698662430762
+    second: Bundle Of Joy Walking_332
+  - first:
+      213: 3949691722845000962
+    second: Bundle Of Joy Walking_333
+  - first:
+      213: 3767238171564383452
+    second: Bundle Of Joy Walking_334
+  - first:
+      213: -2312687585661750555
+    second: Bundle Of Joy Walking_335
+  - first:
+      213: 3849138256605564215
+    second: Bundle Of Joy Walking_336
+  - first:
+      213: -8173858612312177528
+    second: Bundle Of Joy Walking_337
+  - first:
+      213: -1408434584124436462
+    second: Bundle Of Joy Walking_338
+  - first:
+      213: -2600186934774022238
+    second: Bundle Of Joy Walking_339
+  - first:
+      213: 2665659590268823046
+    second: Bundle Of Joy Walking_340
+  - first:
+      213: 4913438583746676556
+    second: Bundle Of Joy Walking_341
+  - first:
+      213: 4333670458516581321
+    second: Bundle Of Joy Walking_342
+  - first:
+      213: -5113390913619653552
+    second: Bundle Of Joy Walking_343
+  - first:
+      213: 730386633951080393
+    second: Bundle Of Joy Walking_344
+  - first:
+      213: 86301314473269144
+    second: Bundle Of Joy Walking_345
+  - first:
+      213: 2451009738092389130
+    second: Bundle Of Joy Walking_346
+  - first:
+      213: 3786890616612626479
+    second: Bundle Of Joy Walking_347
+  - first:
+      213: 3602314064294104969
+    second: Bundle Of Joy Walking_348
+  - first:
+      213: -5555613756869735662
+    second: Bundle Of Joy Walking_349
+  - first:
+      213: 6442718872751789988
+    second: Bundle Of Joy Walking_350
+  - first:
+      213: 3813341361533881861
+    second: Bundle Of Joy Walking_351
+  - first:
+      213: 1730046640515663226
+    second: Bundle Of Joy Walking_352
+  - first:
+      213: -5159067226472020719
+    second: Bundle Of Joy Walking_353
+  - first:
+      213: 6810463626473775935
+    second: Bundle Of Joy Walking_354
+  - first:
+      213: -2692192087752452273
+    second: Bundle Of Joy Walking_355
+  - first:
+      213: 1200175344201825141
+    second: Bundle Of Joy Walking_356
+  - first:
+      213: 2701574777904271946
+    second: Bundle Of Joy Walking_357
+  - first:
+      213: -4415507248623939534
+    second: Bundle Of Joy Walking_358
+  - first:
+      213: -5329461193329462694
+    second: Bundle Of Joy Walking_359
+  - first:
+      213: 3757094000636733779
+    second: Bundle Of Joy Walking_360
+  - first:
+      213: 5371370064610186205
+    second: Bundle Of Joy Walking_361
+  - first:
+      213: 266888966719601984
+    second: Bundle Of Joy Walking_362
+  - first:
+      213: 5562302926752665925
+    second: Bundle Of Joy Walking_363
+  - first:
+      213: 1843326771342301503
+    second: Bundle Of Joy Walking_364
+  - first:
+      213: 6908231394552068834
+    second: Bundle Of Joy Walking_365
+  - first:
+      213: 8437143696899723106
+    second: Bundle Of Joy Walking_366
+  - first:
+      213: 4301442167269924150
+    second: Bundle Of Joy Walking_367
+  - first:
+      213: -1960632039285700752
+    second: Bundle Of Joy Walking_368
+  - first:
+      213: -7125903435720461355
+    second: Bundle Of Joy Walking_369
+  - first:
+      213: -3650238794051223381
+    second: Bundle Of Joy Walking_370
+  - first:
+      213: 5600225598738677727
+    second: Bundle Of Joy Walking_371
+  - first:
+      213: -8021910432719059855
+    second: Bundle Of Joy Walking_372
+  - first:
+      213: 3451364016539775528
+    second: Bundle Of Joy Walking_373
+  - first:
+      213: 4918720582196034057
+    second: Bundle Of Joy Walking_374
+  - first:
+      213: -1163363916290653701
+    second: Bundle Of Joy Walking_375
+  - first:
+      213: -6755703914194103070
+    second: Bundle Of Joy Walking_376
+  - first:
+      213: -7944224742778627593
+    second: Bundle Of Joy Walking_377
+  - first:
+      213: -6185592005879826632
+    second: Bundle Of Joy Walking_378
+  - first:
+      213: -5573460715339214009
+    second: Bundle Of Joy Walking_379
+  - first:
+      213: 3046295710949708164
+    second: Bundle Of Joy Walking_380
+  - first:
+      213: -3303424786710745289
+    second: Bundle Of Joy Walking_381
+  - first:
+      213: -6722980011865928148
+    second: Bundle Of Joy Walking_382
+  - first:
+      213: 5230457157852812342
+    second: Bundle Of Joy Walking_383
+  - first:
+      213: -2803992882696522182
+    second: Bundle Of Joy Walking_384
+  - first:
+      213: -1327139217643790443
+    second: Bundle Of Joy Walking_385
+  - first:
+      213: -927844803725802745
+    second: Bundle Of Joy Walking_386
+  - first:
+      213: 4763198007127755987
+    second: Bundle Of Joy Walking_387
+  - first:
+      213: 9003595584558740559
+    second: Bundle Of Joy Walking_388
+  - first:
+      213: -7989831202823045386
+    second: Bundle Of Joy Walking_389
+  - first:
+      213: -1524959442649115720
+    second: Bundle Of Joy Walking_390
+  - first:
+      213: -1507984793335287599
+    second: Bundle Of Joy Walking_391
+  - first:
+      213: -3612139615880448094
+    second: Bundle Of Joy Walking_392
+  - first:
+      213: -4843380875959804902
+    second: Bundle Of Joy Walking_393
+  - first:
+      213: -3244028828796466876
+    second: Bundle Of Joy Walking_394
+  - first:
+      213: -2655549999428130566
+    second: Bundle Of Joy Walking_395
+  - first:
+      213: 6628630670886045864
+    second: Bundle Of Joy Walking_396
+  - first:
+      213: -1928914723060964970
+    second: Bundle Of Joy Walking_397
+  - first:
+      213: -4181504579658899294
+    second: Bundle Of Joy Walking_398
+  - first:
+      213: 8791763120162671288
+    second: Bundle Of Joy Walking_399
+  - first:
+      213: -8420048624114266833
+    second: Bundle Of Joy Walking_400
+  - first:
+      213: 5849908784905405599
+    second: Bundle Of Joy Walking_401
+  - first:
+      213: -3119855968535726282
+    second: Bundle Of Joy Walking_402
+  - first:
+      213: 2707424815952138698
+    second: Bundle Of Joy Walking_403
+  - first:
+      213: 4249005482734866828
+    second: Bundle Of Joy Walking_404
+  - first:
+      213: -3571084814108329792
+    second: Bundle Of Joy Walking_405
+  - first:
+      213: 2459321166425473532
+    second: Bundle Of Joy Walking_406
+  - first:
+      213: -5447856838365985708
+    second: Bundle Of Joy Walking_407
+  - first:
+      213: -1930951930312749106
+    second: Bundle Of Joy Walking_408
+  - first:
+      213: -4121543848264452117
+    second: Bundle Of Joy Walking_409
+  - first:
+      213: 1854654225330673429
+    second: Bundle Of Joy Walking_410
+  - first:
+      213: -944554627360633275
+    second: Bundle Of Joy Walking_411
+  - first:
+      213: 3727467584011590328
+    second: Bundle Of Joy Walking_412
+  - first:
+      213: 2424141561925631709
+    second: Bundle Of Joy Walking_413
+  - first:
+      213: 540574494788323923
+    second: Bundle Of Joy Walking_414
+  - first:
+      213: -1173908045284057212
+    second: Bundle Of Joy Walking_415
+  - first:
+      213: 2657241271255073678
+    second: Bundle Of Joy Walking_416
+  - first:
+      213: -316421393065917330
+    second: Bundle Of Joy Walking_417
+  - first:
+      213: 749065507186503693
+    second: Bundle Of Joy Walking_418
+  - first:
+      213: 2110812604417777249
+    second: Bundle Of Joy Walking_419
+  - first:
+      213: 7764107702808841096
+    second: Bundle Of Joy Walking_420
+  - first:
+      213: -2357218023296018128
+    second: Bundle Of Joy Walking_421
+  - first:
+      213: 2770176604170281891
+    second: Bundle Of Joy Walking_422
+  - first:
+      213: 1894740331334985783
+    second: Bundle Of Joy Walking_423
+  - first:
+      213: 3540303510850335847
+    second: Bundle Of Joy Walking_424
+  - first:
+      213: 1988000156929177176
+    second: Bundle Of Joy Walking_425
+  - first:
+      213: 3631611657541201270
+    second: Bundle Of Joy Walking_426
+  - first:
+      213: 3020365515386614912
+    second: Bundle Of Joy Walking_427
+  - first:
+      213: -8414157431300609697
+    second: Bundle Of Joy Walking_428
+  - first:
+      213: 4886775641892674713
+    second: Bundle Of Joy Walking_429
+  - first:
+      213: -1901468881636115238
+    second: Bundle Of Joy Walking_430
+  - first:
+      213: 4908253370128141241
+    second: Bundle Of Joy Walking_431
+  - first:
+      213: -3852704271555156378
+    second: Bundle Of Joy Walking_432
+  - first:
+      213: 4633124982926049378
+    second: Bundle Of Joy Walking_433
+  - first:
+      213: -8223764687833906605
+    second: Bundle Of Joy Walking_434
+  - first:
+      213: -1084956666288620835
+    second: Bundle Of Joy Walking_435
+  - first:
+      213: -8757841964297757974
+    second: Bundle Of Joy Walking_436
+  - first:
+      213: -2189307441180138971
+    second: Bundle Of Joy Walking_437
+  - first:
+      213: -5534709449202137262
+    second: Bundle Of Joy Walking_438
+  - first:
+      213: 571115096269845001
+    second: Bundle Of Joy Walking_439
+  - first:
+      213: -4313280976594187125
+    second: Bundle Of Joy Walking_440
+  - first:
+      213: 3227230724601053518
+    second: Bundle Of Joy Walking_441
+  - first:
+      213: -5198537459666946961
+    second: Bundle Of Joy Walking_442
+  - first:
+      213: -1098568797672434313
+    second: Bundle Of Joy Walking_443
+  - first:
+      213: 2966572844737406371
+    second: Bundle Of Joy Walking_444
+  - first:
+      213: -2221114384608983047
+    second: Bundle Of Joy Walking_445
+  - first:
+      213: -3000315867180672717
+    second: Bundle Of Joy Walking_446
+  - first:
+      213: -5552038387151941619
+    second: Bundle Of Joy Walking_447
+  - first:
+      213: -4697816582528448329
+    second: Bundle Of Joy Walking_448
+  - first:
+      213: -3023008856299786864
+    second: Bundle Of Joy Walking_449
+  - first:
+      213: 198739909441441371
+    second: Bundle Of Joy Walking_450
+  - first:
+      213: -1187907708555926144
+    second: Bundle Of Joy Walking_451
+  - first:
+      213: 2357459705062246043
+    second: Bundle Of Joy Walking_452
+  - first:
+      213: -4369082084951907966
+    second: Bundle Of Joy Walking_453
+  - first:
+      213: 7373244803697363468
+    second: Bundle Of Joy Walking_454
+  - first:
+      213: 4229824756930014685
+    second: Bundle Of Joy Walking_455
+  - first:
+      213: 6675454056394318509
+    second: Bundle Of Joy Walking_456
+  - first:
+      213: -1546507948225779362
+    second: Bundle Of Joy Walking_457
+  - first:
+      213: 1979858400060928655
+    second: Bundle Of Joy Walking_458
+  - first:
+      213: -6390980115129107789
+    second: Bundle Of Joy Walking_459
+  - first:
+      213: -8122225209499540692
+    second: Bundle Of Joy Walking_460
+  - first:
+      213: -6709068028456032083
+    second: Bundle Of Joy Walking_461
+  - first:
+      213: 2259991235000874079
+    second: Bundle Of Joy Walking_462
+  - first:
+      213: -8568771585653526958
+    second: Bundle Of Joy Walking_463
+  - first:
+      213: 1082609039533005770
+    second: Bundle Of Joy Walking_464
+  - first:
+      213: 863021081913234057
+    second: Bundle Of Joy Walking_465
+  - first:
+      213: -7789685646299788128
+    second: Bundle Of Joy Walking_466
+  - first:
+      213: -3913322944917151226
+    second: Bundle Of Joy Walking_467
+  - first:
+      213: 5257652353015654757
+    second: Bundle Of Joy Walking_468
+  - first:
+      213: 776786362193309193
+    second: Bundle Of Joy Walking_469
+  - first:
+      213: 5756358607636636939
+    second: Bundle Of Joy Walking_470
+  - first:
+      213: -7882204108419837552
+    second: Bundle Of Joy Walking_471
+  - first:
+      213: 5757724032899450585
+    second: Bundle Of Joy Walking_472
+  - first:
+      213: -6603364278024417877
+    second: Bundle Of Joy Walking_473
+  - first:
+      213: -8384546570085700486
+    second: Bundle Of Joy Walking_474
+  - first:
+      213: 492469257022179923
+    second: Bundle Of Joy Walking_475
+  - first:
+      213: 6546378544263441666
+    second: Bundle Of Joy Walking_476
+  - first:
+      213: -3408580537955477696
+    second: Bundle Of Joy Walking_477
+  - first:
+      213: -8766019126689420105
+    second: Bundle Of Joy Walking_478
+  - first:
+      213: 8448251557193586519
+    second: Bundle Of Joy Walking_479
+  - first:
+      213: 467148655041104767
+    second: Bundle Of Joy Walking_480
+  - first:
+      213: 5922675020378200712
+    second: Bundle Of Joy Walking_481
+  - first:
+      213: -3843096162831733753
+    second: Bundle Of Joy Walking_482
+  - first:
+      213: -3020632557924001954
+    second: Bundle Of Joy Walking_483
+  - first:
+      213: 7235253773940663266
+    second: Bundle Of Joy Walking_484
+  - first:
+      213: -2063456361517957386
+    second: Bundle Of Joy Walking_485
+  - first:
+      213: -3569521858319218
+    second: Bundle Of Joy Walking_486
+  - first:
+      213: 2624239474970287450
+    second: Bundle Of Joy Walking_487
+  - first:
+      213: -5724178233431126716
+    second: Bundle Of Joy Walking_488
+  - first:
+      213: -2121904168176967847
+    second: Bundle Of Joy Walking_489
+  - first:
+      213: -1786191569292538602
+    second: Bundle Of Joy Walking_490
+  - first:
+      213: -1318875916183840706
+    second: Bundle Of Joy Walking_491
+  - first:
+      213: -3396369391770679486
+    second: Bundle Of Joy Walking_492
+  - first:
+      213: -1596233958159682548
+    second: Bundle Of Joy Walking_493
+  - first:
+      213: -7886343031222452148
+    second: Bundle Of Joy Walking_494
+  - first:
+      213: 8725449414174258158
+    second: Bundle Of Joy Walking_495
+  - first:
+      213: -4734495089519545439
+    second: Bundle Of Joy Walking_496
+  - first:
+      213: 1977964702286699018
+    second: Bundle Of Joy Walking_497
+  - first:
+      213: -2469552456866718754
+    second: Bundle Of Joy Walking_498
+  - first:
+      213: 8795415301576675922
+    second: Bundle Of Joy Walking_499
+  - first:
+      213: -2800727137414658342
+    second: Bundle Of Joy Walking_500
+  - first:
+      213: -5722079484525513515
+    second: Bundle Of Joy Walking_501
+  - first:
+      213: -5145924465006251271
+    second: Bundle Of Joy Walking_502
+  - first:
+      213: 8184159273869874394
+    second: Bundle Of Joy Walking_503
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -40,7 +1552,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -71,9 +1583,180 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Bundle Of Joy Walking_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 105
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68169b0c8ba409b0800000000000000
+      internalID: -5114774658807883666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bundle Of Joy Walking_1
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 0
+        width: 105
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ddfc29198fde470800000000000000
+      internalID: 8425663781997108602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bundle Of Joy Walking_2
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 105
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793c5b9fdea87e3b0800000000000000
+      internalID: -5483261266598968425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bundle Of Joy Walking_3
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 0
+        width: 105
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c756965e83ae900800000000000000
+      internalID: 714446048858569827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bundle Of Joy Walking_4
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 0
+        width: 105
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e867b24a70f956180800000000000000
+      internalID: -9122710615001172338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bundle Of Joy Walking_5
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 0
+        width: 105
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5d2c3ee5121ee30800000000000000
+      internalID: 4530939391543268796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bundle Of Joy Walking_6
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 0
+        width: 105
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3172e1710a40bb30800000000000000
+      internalID: 4301019014204911935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

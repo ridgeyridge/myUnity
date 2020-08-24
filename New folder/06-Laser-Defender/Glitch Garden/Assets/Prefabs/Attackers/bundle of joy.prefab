@@ -25,7 +25,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1747371136}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.44, z: 0}
+  m_LocalPosition: {x: 0, y: 0.29, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 2447233171449494867}
@@ -69,8 +69,8 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 7
-  m_Sprite: {fileID: -5809404870691078281, guid: 93142539ae651134788be6a29a5681ee,
+  m_SortingOrder: 20
+  m_Sprite: {fileID: 8425663781997108602, guid: 1968143a897e1784b87b6f6ccaef8dfa,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -91,14 +91,13 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2447233171449494867}
-  - component: {fileID: 2447233171449494869}
   - component: {fileID: 2447233171449494866}
   - component: {fileID: 9466309938135187}
   - component: {fileID: 6993612236886077227}
   - component: {fileID: -5516926700379039645}
   - component: {fileID: 2720696520256577920}
   m_Layer: 0
-  m_Name: Lizard
+  m_Name: bundle of joy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -119,25 +118,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!95 &2447233171449494869
-Animator:
-  serializedVersion: 3
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2447233171449494870}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 281c517b2e4d0404a887c250e6c7c8f6, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!114 &2447233171449494866
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -163,18 +143,18 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.5959146, y: 0.19176626}
+  m_Offset: {x: -0.5959146, y: 0.01802063}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 2.51, y: 1.86}
-    newSize: {x: 0.81, y: 0.84}
+    oldSize: {x: 1.05, y: 0.59}
+    newSize: {x: 1.05, y: 0.59}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.5944171, y: 0.8147435}
+  m_Size: {x: 0.5944171, y: 0.99543905}
   m_EdgeRadius: 0
 --- !u!50 &6993612236886077227
 Rigidbody2D:
@@ -209,7 +189,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e523fce9faa5f7544bef9a67652315a9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 100
+  health: 50
   deathVFX: {fileID: 1906222994913036, guid: 740c2b3187d56c341b8cb78e8aa925c5, type: 3}
 --- !u!114 &2720696520256577920
 MonoBehaviour:
