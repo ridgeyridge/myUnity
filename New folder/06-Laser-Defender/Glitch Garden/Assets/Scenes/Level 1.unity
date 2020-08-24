@@ -562,7 +562,6 @@ MonoBehaviour:
   minSpawnDelay: 2
   maxSpawnDelay: 4
   attackerPrefabArray:
-  - {fileID: 2447233171449494866, guid: e038e3e4650ff594cb6e25513ee73624, type: 3}
   - {fileID: 2447233171449494866, guid: 37b0ba67c4b5deb48957d84c8ab83b57, type: 3}
 --- !u!4 &1330972087 stripped
 Transform:
@@ -763,7 +762,6 @@ MonoBehaviour:
   minSpawnDelay: 3
   maxSpawnDelay: 5
   attackerPrefabArray:
-  - {fileID: 2447233171449494866, guid: e038e3e4650ff594cb6e25513ee73624, type: 3}
   - {fileID: 2447233171449494866, guid: 37b0ba67c4b5deb48957d84c8ab83b57, type: 3}
 --- !u!4 &1615482667 stripped
 Transform:
