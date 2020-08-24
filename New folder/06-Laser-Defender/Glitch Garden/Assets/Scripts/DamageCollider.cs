@@ -1,11 +1,16 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 public class DamageCollider : MonoBehaviour
 {
-    private void OnTriggerEnter2D()
+    private void OnTriggerEnter2D(Collider2D otherCollider)
     {
-        FindObjectOfType<LivesDisplay>().TakeLife();    
-    }
+        FindObjectOfType<LivesDisplay>().TakeLife();
+        var attacker = otherCollider.GetComponent<Attacker>();
+        Debug.LogError(attacker);
+        attacker.KilledByPlayer = false;
+        Destroy(attacker);
+    }    
 }
